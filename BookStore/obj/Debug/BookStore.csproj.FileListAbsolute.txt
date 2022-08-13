@@ -1,0 +1,200 @@
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.AdminForms.AddSeminars.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.AdminForms.AddShippingCompany.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.ADMINS.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.Author.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.BookDetails.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.BooksOfUser.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.BorrowedBookDetails.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.BorrowForm.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.BuyForm.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.Donate.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.Form1.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.FreeBookDetails.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.FreeForm.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.Lend.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.login.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.LoginAdmin.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.home.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.orderedbooksofuser.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.Publisher.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.sell.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.signup.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.AuthorInfo.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.publiherInfo.resources
+C:\Users\CITY-LAP\Desktop\dataBaseNew\Book_Store\BookStore\BookStore\obj\Debug\BookStore.PublisherAddress.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\bin\Debug\BookStore.exe.config
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\bin\Debug\BookStore.exe
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\bin\Debug\BookStore.pdb
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.AdminForms.AddSeminars.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.AdminForms.AddShippingCompany.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.ADMINS.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.Author.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.AuthorInfo.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.BookDetails.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.BooksOfUser.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.BorrowedBookDetails.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.BorrowForm.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.BuyForm.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.Donate.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.Form1.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.FreeBookDetails.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.FreeForm.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.Lend.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.login.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.LoginAdmin.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.home.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.orderedbooksofuser.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.publiherInfo.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.Publisher.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.PublisherAddress.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.sell.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.signup.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.exe
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\CUFE24\2nd year\1st term\database\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.orderunavailble.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.AdminForms.AddSeminars.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.AdminForms.AddShippingCompany.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.ADMINS.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.Author.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.AuthorInfo.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.BookDetails.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.BooksOfUser.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.BorrowAbook.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.BorrowedBookDetails.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.BorrowForm.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.BuyAbook.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.BuyForm.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.Donate.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.Form1.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.FreeBookDetails.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.FreeForm.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.Lend.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.login.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.LoginAdmin.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.home.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.orderedbooksofuser.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.orderunavailble.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.publiherInfo.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.Publisher.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.PublisherAddress.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.sell.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.signup.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.TakeABook.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.UserInfo.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.CompanyInfo.resources
+C:\Users\CITY-LAP\Desktop\Final\BookStore\BookStore\BookStore\obj\Debug\BookStore.Orders.resources
+C:\Users\user\Desktop\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\user\Desktop\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\user\Desktop\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.AdminForms.AddSeminars.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.AdminForms.AddShippingCompany.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.ADMINS.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.Author.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.AuthorInfo.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.BookDetails.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.BooksOfUser.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.BorrowAbook.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.BorrowedBookDetails.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.BorrowForm.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.BuyAbook.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.BuyForm.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.CompanyInfo.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.Donate.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.Form1.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.FreeBookDetails.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.FreeForm.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.Lend.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.login.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.LoginAdmin.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.home.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.orderedbooksofuser.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.Orders.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.orderunavailble.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.publiherInfo.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.Publisher.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.PublisherAddress.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.sell.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.signup.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.TakeABook.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.UserInfo.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.AdminForms.AddAdmin.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.AdminForms.ChangeYourPassword.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.AdminForms.ShowCompanies.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.AdminForms.ShowSeminars.resources
+C:\Users\user\Desktop\BookStore\BookStore\obj\Debug\BookStore.AdminForms.ShowAdmins.resources
+C:\Users\User\Downloads\BookStore (2)\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\User\Downloads\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\User\Downloads\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\User\Downloads\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.AdminForms.AddAdmin.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.AdminForms.AddSeminars.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.AdminForms.AddShippingCompany.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.AdminForms.ChangeYourPassword.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.AdminForms.ShowAdmins.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.AdminForms.ShowCompanies.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.AdminForms.ShowSeminars.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.ADMINS.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.Author.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.AuthorInfo.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.BookDetails.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.BooksOfUser.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.BorrowAbook.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.BorrowedBookDetails.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.BorrowForm.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.BuyAbook.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.BuyForm.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.CompanyInfo.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.Donate.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.Form1.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.FreeBookDetails.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.FreeForm.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.Lend.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.login.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.LoginAdmin.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.home.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.orderedbooksofuser.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.Orders.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.orderunavailble.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.publiherInfo.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.Publisher.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.PublisherAddress.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.sell.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.signup.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.TakeABook.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.UserInfo.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.ChangeUserPassword.resources
+C:\Users\CITY-LAP\Desktop\final final\BookStore (2)\BookStore\BookStore\obj\Debug\BookStore.ShowSeminarU.resources

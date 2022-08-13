@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{262EB876-42EC-467D-AB8F-9CD3EA97255B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BookStore</RootNamespace>
+    <AssemblyName>BookStore</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminForms\AddAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\AddAdmin.designer.cs">
+      <DependentUpon>AddAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\AddSeminars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\AddSeminars.designer.cs">
+      <DependentUpon>AddSeminars.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\AddShippingCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\AddShippingCompany.designer.cs">
+      <DependentUpon>AddShippingCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\ChangeYourPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\ChangeYourPassword.designer.cs">
+      <DependentUpon>ChangeYourPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\ShowAdmins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\ShowAdmins.Designer.cs">
+      <DependentUpon>ShowAdmins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\ShowCompanies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\ShowCompanies.designer.cs">
+      <DependentUpon>ShowCompanies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\ShowSeminars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\ShowSeminars.designer.cs">
+      <DependentUpon>ShowSeminars.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMINS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMINS.designer.cs">
+      <DependentUpon>ADMINS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Author.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Author.Designer.cs">
+      <DependentUpon>Author.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AuthorInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuthorInfo.designer.cs">
+      <DependentUpon>AuthorInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BookDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookDetails.designer.cs">
+      <DependentUpon>BookDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BooksOfUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BooksOfUser.Designer.cs">
+      <DependentUpon>BooksOfUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BorrowAbook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BorrowAbook.designer.cs">
+      <DependentUpon>BorrowAbook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BorrowedBookDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BorrowedBookDetails.designer.cs">
+      <DependentUpon>BorrowedBookDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BorrowForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BorrowForm.designer.cs">
+      <DependentUpon>BorrowForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuyAbook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuyAbook.designer.cs">
+      <DependentUpon>BuyAbook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuyForm.designer.cs">
+      <DependentUpon>BuyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeUserPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeUserPassword.Designer.cs">
+      <DependentUpon>ChangeUserPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompanyInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompanyInfo.Designer.cs">
+      <DependentUpon>CompanyInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller.cs" />
+    <Compile Include="DBManager.cs" />
+    <Compile Include="Donate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Donate.Designer.cs">
+      <DependentUpon>Donate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FreeBookDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FreeBookDetails.designer.cs">
+      <DependentUpon>FreeBookDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FreeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FreeForm.designer.cs">
+      <DependentUpon>FreeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lend.Designer.cs">
+      <DependentUpon>Lend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginAdmin.designer.cs">
+      <DependentUpon>LoginAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="open.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="open.Designer.cs">
+      <DependentUpon>open.cs</DependentUpon>
+    </Compile>
+    <Compile Include="orderedbooksofuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="orderedbooksofuser.Designer.cs">
+      <DependentUpon>orderedbooksofuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Orders.Designer.cs">
+      <DependentUpon>Orders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="orderunavailble.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="orderunavailble.Designer.cs">
+      <DependentUpon>orderunavailble.cs</DependentUpon>
+    </Compile>
+    <Compile Include="publiherInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="publiherInfo.designer.cs">
+      <DependentUpon>publiherInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Publisher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Publisher.Designer.cs">
+      <DependentUpon>Publisher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PublisherAddress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PublisherAddress.Designer.cs">
+      <DependentUpon>PublisherAddress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sell.Designer.cs">
+      <DependentUpon>sell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowSeminarU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowSeminarU.Designer.cs">
+      <DependentUpon>ShowSeminarU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="signup.Designer.cs">
+      <DependentUpon>signup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StoredProcedures.cs" />
+    <Compile Include="TakeABook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TakeABook.designer.cs">
+      <DependentUpon>TakeABook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThemeColor.cs" />
+    <Compile Include="UserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInfo.Designer.cs">
+      <DependentUpon>UserInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ValidationClass.cs" />
+    <EmbeddedResource Include="AdminForms\AddAdmin.resx">
+      <DependentUpon>AddAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\AddSeminars.resx">
+      <DependentUpon>AddSeminars.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\AddShippingCompany.resx">
+      <DependentUpon>AddShippingCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\ChangeYourPassword.resx">
+      <DependentUpon>ChangeYourPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\ShowAdmins.resx">
+      <DependentUpon>ShowAdmins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\ShowCompanies.resx">
+      <DependentUpon>ShowCompanies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\ShowSeminars.resx">
+      <DependentUpon>ShowSeminars.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMINS.resx">
+      <DependentUpon>ADMINS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Author.resx">
+      <DependentUpon>Author.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuthorInfo.resx">
+      <DependentUpon>AuthorInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookDetails.resx">
+      <DependentUpon>BookDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BooksOfUser.resx">
+      <DependentUpon>BooksOfUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BorrowAbook.resx">
+      <DependentUpon>BorrowAbook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BorrowedBookDetails.resx">
+      <DependentUpon>BorrowedBookDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BorrowForm.resx">
+      <DependentUpon>BorrowForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuyAbook.resx">
+      <DependentUpon>BuyAbook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuyForm.resx">
+      <DependentUpon>BuyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeUserPassword.resx">
+      <DependentUpon>ChangeUserPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompanyInfo.resx">
+      <DependentUpon>CompanyInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Donate.resx">
+      <DependentUpon>Donate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FreeBookDetails.resx">
+      <DependentUpon>FreeBookDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FreeForm.resx">
+      <DependentUpon>FreeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lend.resx">
+      <DependentUpon>Lend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginAdmin.resx">
+      <DependentUpon>LoginAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="open.resx">
+      <DependentUpon>open.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="orderedbooksofuser.resx">
+      <DependentUpon>orderedbooksofuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Orders.resx">
+      <DependentUpon>Orders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="orderunavailble.resx">
+      <DependentUpon>orderunavailble.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="publiherInfo.resx">
+      <DependentUpon>publiherInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Publisher.resx">
+      <DependentUpon>Publisher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PublisherAddress.resx">
+      <DependentUpon>PublisherAddress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sell.resx">
+      <DependentUpon>sell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowSeminarU.resx">
+      <DependentUpon>ShowSeminarU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="signup.resx">
+      <DependentUpon>signup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TakeABook.resx">
+      <DependentUpon>TakeABook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInfo.resx">
+      <DependentUpon>UserInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\book2-junlyread.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\download %281%29.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
