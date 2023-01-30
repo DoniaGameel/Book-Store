@@ -112,34 +112,10 @@
 
 ## ✍️ Contributors <a name = "contributors"></a>
 
-<table>
-  <tr>
-    <td align="center">
-    <a href="https://github.com/asmaaadel0" target="_black">
-    <br />
-    <sub><b>Asmaa Adel</b></sub></a>
-    </td>
-        <td align="center">
-    <a href="https://github.com/hebaashraf21" target="_black">
-    <br />
-    <sub><b>Heba Ashraf</b></sub></a>
-    </td>
-    <td align="center">
-    <td align="center">
-    <a href="https://github.com/DoniaGameel" target="_black">
-    <br />
-    <sub><b>Donia Gamel</b></sub></a>
-    </td>
-    <td align="center">
-    <a href="https://github.com/SalmaRagab279" target="_black">
-    <br />
-    <sub><b>Salma Ragab</b></sub></a>
-    </td>
-    
-    
-  </tr>
- </table>
+(Asmaa Adel)[https://github.com/asmaaadel0]
 
+(Donia Gameel)[https://github.com/DoniaGameel]
 
+(Heba Ashraf)[https://github.com/hebaashraf21]
 
-
+(Salma Ragab)[https://github.com/SalmaRagab279]
